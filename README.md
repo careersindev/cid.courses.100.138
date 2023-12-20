@@ -1,5 +1,3 @@
-# cid.courses.100.138
-
 <h1>Careers In Dev - Courses - 100-138 - String Basics</h1>
 
 <p>This project is dedicated to the basics of strings within the C# development language.   The project covers the following topics:</p>
